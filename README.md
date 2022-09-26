@@ -4,7 +4,7 @@
 
 ### Scenario
 
-We provide the BLE localization dataset collected in the real world experimental scenario. A total of 21 BLE gateways are deployed to collect the RSSI of BLE beacons. The RSSI is set to -100 dBm if the gateway does not detect any signal from the beacon.
+We provide the BLE localization dataset collected in the real-world experimental scenario. A total of 21 BLE gateways are deployed to collect the RSSI of BLE beacons. The RSSI is set to -100 dBm if the gateway does not detect any signal from the beacon.
 
 ![scenario_ble](img/scenario_ble.png)
 
@@ -41,7 +41,7 @@ The dataset has a total of 5K records, which can [download here](https://drive.g
       "rssi":  [r1, r2, ..., r16]    # The RSSI value of E1-E16 on gateway 1
       "phase": [p1, p2, ..., p16]    # The phase value of E1-E16 on gateway 1
     }
-   	"gateway2":{
+    "gateway2":{
       "rssi":  [r1, r2, ..., r16]    # The RSSI value of E1-E16 on gateway 2
       "phase": [p1, p2, ..., p16]    # The phase value of E1-E16 on gateway 2    
     }
