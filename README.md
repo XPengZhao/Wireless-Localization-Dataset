@@ -10,7 +10,7 @@ We provide the BLE localization dataset collected in the real-world experimental
 
 ### Data
 
- The dataset has a total of 6K records. [download here](https://drive.google.com/drive/folders/1VbbmQx0inZOedKtWkQZGILoh7B9qDchi?usp=sharing).
+ The dataset has a total of 6K records. [Download here](https://drive.google.com/drive/folders/1VbbmQx0inZOedKtWkQZGILoh7B9qDchi?usp=sharing).
 
 
 |      File       |                       Description                       |
