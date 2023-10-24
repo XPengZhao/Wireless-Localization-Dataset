@@ -10,7 +10,7 @@ We provide the BLE localization dataset collected in the real-world experimental
 
 ### Data
 
- The dataset has a total of 6K records. [Download here](https://drive.google.com/drive/folders/1VbbmQx0inZOedKtWkQZGILoh7B9qDchi?usp=sharing).
+ The dataset has a total of 6K records. [Download here](https://connectpolyu-my.sharepoint.com/:f:/g/personal/20032132r_connect_polyu_hk/EuAACSdRP4VGgw_9n2IqL84BkY_tWD5TeE9kDT0lvjw6jw?e=ygYEvX).
 
 
 |      File       |                       Description                       |
@@ -32,7 +32,7 @@ We provide the RFID localization dataset collected in the real-world experimenta
 
 ### Data
 
-The dataset has a total of 5K records. [Download here](https://drive.google.com/drive/folders/1Ek50DmQ4GF1pZeZloCsNpkzdPC4dfUJh?usp=sharing). The dataset is saved in JSON format as following:
+The dataset has a total of 5K records. [Download here](https://connectpolyu-my.sharepoint.com/:f:/g/personal/20032132r_connect_polyu_hk/EuAACSdRP4VGgw_9n2IqL84BkY_tWD5TeE9kDT0lvjw6jw?e=ygYEvX). The dataset is saved in JSON format as following:
 
 ```python
 [
